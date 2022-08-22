@@ -9,12 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "feather-icons": "^4.29.0",
+    "feather-icons-react": "^0.5.0",
+    "flowbite": "^1.5.2",
+    "flowbite-react": "^0.1.6",
+    "jsbarcode": "^3.11.5",
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.8",
     "eslint": "8.21.0",
-    "eslint-config-next": "12.2.5"
+    "eslint-config-next": "12.2.5",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
   }
 }
